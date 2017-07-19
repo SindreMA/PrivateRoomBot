@@ -18,7 +18,7 @@ namespace TestEasyBot
             _client = new DiscordSocketClient();
             new CommandHandler(_client);
             Log("Logging in...", ConsoleColor.Green);
-            await _client.LoginAsync(TokenType.Bot, "MjQxMTg5NTg5MzE2Nzk2NDE2.DE-Ozw.cZbo9P-quFCQHg9jysK6eDbZzng");
+            await _client.LoginAsync(TokenType.Bot, "YOUR BOT TOKEN HERE");
             Log("Connecting...", ConsoleColor.Green);
             _client.GuildMembersDownloaded += _client_GuildMembersDownloaded;
      

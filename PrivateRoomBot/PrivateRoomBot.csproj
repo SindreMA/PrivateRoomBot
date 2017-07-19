@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>PrivateRoomBot</AssemblyName>
+    <RootNamespace>PrivateRoomBot</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Addons.EmojiTools" Version="2.0.1" />
+    <PackageReference Include="Discord.Addons.InteractiveCommands" Version="1.2.4" />
+    <PackageReference Include="Discord.Net.Commands" Version="1.0.2-build-00800" />
+    <PackageReference Include="Discord.Net.Core" Version="1.0.2-build-00800" />
+    <PackageReference Include="Discord.Net.WebSocket" Version="1.0.2-build-00800" />
+  </ItemGroup>
+
+</Project>

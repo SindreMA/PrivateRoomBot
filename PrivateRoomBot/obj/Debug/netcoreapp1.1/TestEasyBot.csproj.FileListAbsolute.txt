@@ -1,0 +1,18 @@
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.deps.json
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.runtimeconfig.json
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.runtimeconfig.dev.json
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.dll
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.csprojResolveAssemblyReference.cache
+c:\users\sindre\documents\visual studio 2017\Projects\TestEasyBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.AssemblyInfo.cs
+C:\Users\Sindre\Documents\Visual Studio 2017\Projects\TestEasyBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.pdb
+C:\Users\Sindre\Documents\Visual Studio 2017\Projects\TestEasyBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.dll
+C:\Users\Sindre\Documents\Visual Studio 2017\Projects\TestEasyBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.pdb
+D:\Bots\PrivateRoomBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.deps.json
+D:\Bots\PrivateRoomBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.runtimeconfig.json
+D:\Bots\PrivateRoomBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.runtimeconfig.dev.json
+D:\Bots\PrivateRoomBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.csprojResolveAssemblyReference.cache
+D:\Bots\PrivateRoomBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.AssemblyInfo.cs
+D:\Bots\PrivateRoomBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.dll
+D:\Bots\PrivateRoomBot\TestEasyBot\obj\Debug\netcoreapp1.1\TestEasyBot.pdb
+D:\Bots\PrivateRoomBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.dll
+D:\Bots\PrivateRoomBot\TestEasyBot\bin\Debug\netcoreapp1.1\TestEasyBot.pdb
